@@ -24,3 +24,5 @@ DOMAIN-SUFFIX,js-agent.newrelic.com
 USER-AGENT,Formula1*
 USER-AGENT,F1TV*
 DOMAIN-SUFFIX,formula1.com
+DOMAIN-SUFFIX,watchliveformula1.com
+DOMAIN-SUFFIX,bitmovin.com
