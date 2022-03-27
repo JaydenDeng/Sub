@@ -21,9 +21,3 @@ DOMAIN-SUFFIX,disneystreaming.com
 DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,js-agent.newrelic.com
-USER-AGENT,Formula1*
-USER-AGENT,F1TV*
-DOMAIN-SUFFIX,formula1.com
-DOMAIN-SUFFIX,watchliveformula1.com
-DOMAIN-SUFFIX,bitmovin.com
-DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
